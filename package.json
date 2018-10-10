@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/filsvwgc/test/issues"
   },
-  "homepage": "https://github.com/filsvwgc/test#readme"
+  "homepage": "https://github.com/filsvwgc/test#readme",
+  "dependencies": {
+    "create-react-app": "^2.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-watch": "^5.0.1"
+  }
 }
